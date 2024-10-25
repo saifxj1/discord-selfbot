@@ -1,7 +1,3 @@
-Here’s a stylish README for your Discord self-bot script that keeps you in a voice channel 24/7 and animates your status! 🎉
-
----
-
 # 🎤 Discord Self-Bot: Stay in Voice Channel 24/7 and Animate Your Status! ✨
 
 Welcome to the **Discord Self-Bot**! This script allows you to remain in a voice channel 24/7 while automatically changing your Discord status periodically. Perfect for keeping your presence active and fun! 
