@@ -63,7 +63,7 @@ Before using the self-bot, ensure you have the following installed:
 Once everything is set up, run the script with:
 
 ```bash
-node index.js.js
+node index.js
 ```
 
 ### 4. Enjoy! 🎉
